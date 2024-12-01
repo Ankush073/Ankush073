@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Ankush from India. I am a developer. <br>I enjoy learning and exploring technologies<br>Buid impactful solutions.
+I'm Ankush from India. I am a developer. <br>I enjoy learning and exploring technologies<br>Build impactful solutions.
 
 
 ## 🌐 Socials:
